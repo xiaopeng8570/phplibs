@@ -1,2 +1,1 @@
-# phplibs
-libs for php
+在Yii2框架的基础上进行二次封装
